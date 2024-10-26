@@ -7,9 +7,9 @@
 <br>
 <br>
 
-<h2 align="center">
+<h1 align="center">
   <a href="www.google.com">Check my Resume</a>
-</h2>
+</h1>
 <br>
 <br>
 <p align="center">
