@@ -8,7 +8,7 @@
 <br>
 
 <h1 align="center">
-  <a href="www.google.com">Check my Resume</a>
+  <a href="www.gurupreeth.pages.dev">Check my Resume</a>
 </h1>
 <br>
 <br>
