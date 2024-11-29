@@ -7,8 +7,8 @@
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
-
-
+<!--![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&abbreviated=true)
+-->
 # 📊 GitHub Stats:
 
 <div align="center">
